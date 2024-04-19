@@ -1,0 +1,3 @@
+╰─➤  gpg -c secrets.yml
+gpg: directory '/Users/xwps/.gnupg' created
+gpg: keybox '/Users/xwps/.gnupg/pubring.kbx' created
